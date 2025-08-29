@@ -440,13 +440,16 @@ For support and questions:
 ## 📊 Screenshots
 
 ### Patient Dashboard
-![Patient Dashboard](screenshots/patient-dashboard.png)
+<img width="1903" height="976" alt="image" src="https://github.com/user-attachments/assets/974489dd-10ed-46b3-aae1-44d1597d41fc" />
+
 
 ### Pharmacy Dashboard  
-![Pharmacy Dashboard](screenshots/pharmacy-dashboard.png)
+<img width="1917" height="978" alt="image" src="https://github.com/user-attachments/assets/ca40e9c3-e43a-48b6-abb3-baa5e30cfd59" />
+
 
 ### Quotation Creation
-![Quotation Creation](screenshots/create-quotation.png)
+<img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/703a68ec-1acd-4505-8893-bdba673d6180" />
+
 
 ---
 

@@ -27,7 +27,7 @@ A comprehensive web-based medical prescription management system built with PHP,
 - **Role**: Pharmacy
 
 ### Admin/Database Access
-- **Database**: `medical_prescription`
+- **Database**: `meds`
 - **Username**: `root`
 - **Password**: *(empty for XAMPP default)*
 - **Host**: `localhost`
@@ -52,8 +52,8 @@ A comprehensive web-based medical prescription management system built with PHP,
 
 3. **Database Setup**
    - Open phpMyAdmin: `http://localhost/phpmyadmin`
-   - Create database: `medical_prescription`
-   - Import: `database/medical_prescription.sql`
+   - Create database: `meds`
+   - Import: `database/meds.sql`
 
 4. **Configuration Check**
    - Verify `config/config.php` database settings
@@ -120,7 +120,7 @@ A comprehensive web-based medical prescription management system built with PHP,
 medical-prescription/
 ├── 📄 README.md                    # This documentation
 ├── 📄 database/
-│   └── medical_prescription.sql    # Complete database dump
+│   └── meds.sql                    # Complete database dump
 ├── 📁 app/
 │   ├── 📁 controllers/            # MVC Controllers
 │   ├── 📁 models/                 # Data Models  

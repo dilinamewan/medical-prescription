@@ -1,0 +1,15 @@
+body { font-family: system-ui, Arial, sans-serif; margin: 0; background:#fafafa; color:#222; }
+header { background:#1d4ed8; color:#fff; padding:12px 18px; display:flex; align-items:center; justify-content:space-between; }
+header h1 { margin:0; font-size:18px; }
+header a { color:#fff; margin-left:10px; text-decoration:none; }
+header a:hover { text-decoration:underline; }
+main { padding:18px; min-height:calc(100vh - 120px); }
+footer { background:#f1f5f9; padding:12px 18px; text-align:center; border-top:1px solid #e2e8f0; }
+label { display:block; margin:8px 0; }
+input, textarea, select, button { padding:8px; }
+table { width:100%; border-collapse:collapse; background:#fff; }
+th, td { border:1px solid #e5e7eb; padding:8px; text-align:left; }
+.flash { background:#fef3c7; border:1px solid #fcd34d; padding:8px; margin-bottom:12px; }
+.imgs img { max-width:180px; margin:6px; border:1px solid #ddd; }
+button { cursor:pointer; background:#1d4ed8; color:#fff; border:none; padding:10px 20px; }
+button:hover { background:#1e40af; }

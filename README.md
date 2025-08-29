@@ -17,8 +17,8 @@ A comprehensive web-based medical prescription management system built with PHP,
 ## 🔐 Login Credentials
 
 ### Patient Account
-- **Email**: `patient@test.com`
-- **Password**: `Patient@123`
+- **Email**: `user@gmail.com`
+- **Password**: `123456`
 - **Role**: Patient/User
 
 ### Pharmacy Account  
